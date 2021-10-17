@@ -1,0 +1,16 @@
+## venv libary
+venv
+venv/*
+
+## Personal setting
+setting.py
+
+## unit test
+test
+test/*
+
+## IDE
+.idea
+
+## pycache
+__pycache__
